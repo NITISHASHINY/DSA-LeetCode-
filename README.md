@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
