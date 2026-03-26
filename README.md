@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0042-trapping-rain-water) |
+| [0090-subsets-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0322-coin-change) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
