@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0322-coin-change) |
 ## Monotonic Stack
 |  |
@@ -147,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
