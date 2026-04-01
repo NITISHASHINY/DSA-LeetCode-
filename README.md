@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0287-find-the-duplicate-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
