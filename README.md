@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0160-intersection-of-two-linked-lists) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Union Find
 |  |
 | ------- |
@@ -83,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0131-palindrome-partitioning) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
 | ------- |
