@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0322-coin-change) |
 ## Greedy
 |  |
@@ -152,4 +153,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
