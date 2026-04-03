@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0140-word-break-ii) |
 | [0200-number-of-islands](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0322-coin-change) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0140-word-break-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0140-word-break-ii) |
 | [0322-coin-change](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0322-coin-change) |
 ## Monotonic Stack
 |  |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0140-word-break-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -187,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0733-flood-fill) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
