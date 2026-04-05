@@ -1,0 +1,46 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+// Greedy function to check if cows can be placed with at least 'minDist' distance
+bool canPlaceCows(vector<int>& stalls, int c, int minDist) {
+    int count = 1;              // place first cow in first stall
+    int lastPos = stalls[0];    // last placed cow position
+
+    for (int i = 1; i < stalls.size(); i++) {
+        if (stalls[i] - lastPos >= minDist) {
+            count++;            // place cow
+            lastPos = stalls[i];
+        }
+        if (count == c) return true;  // all cows placed
+    }
+    return false;               // cannot place all cows
+}
+
+// Binary Search function to find largest minimum distance
+int aggressiveCows(vector<int>& stalls, int c) {
+    sort(stalls.begin(), stalls.end());            // sort stalls
+    int low = 1;                                   // minimum possible distance
+    int high = stalls.back() - stalls.front();    // maximum possible distance
+    int result = 0;
+
+    while (low <= high) {
+        int mid = low + (high - low) / 2;
+        if (canPlaceCows(stalls, c, mid)) {
+            result = mid;   // possible, try bigger
+            low = mid + 1;
+        } else {
+            high = mid - 1; // not possible, try smaller
+        }
+    }
+    return result;
+}
+
+int main() {
+    int n, c;
+    cin >> n >> c;                 // number of stalls and cows
+    vector<int> stalls(n);
+    for (int i = 0; i < n; i++) cin >> stalls[i];
+
+    cout << aggressiveCows(stalls, c) << endl;
+    return 0;
+}
