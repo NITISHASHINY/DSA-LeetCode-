@@ -1,0 +1,47 @@
+class Solution {
+  public:
+
+    vector<int> topKSumPairs(vector<int>& a, vector<int>& b, int k) {
+        int n = a.size();
+
+        // Step 1: sort both arrays in descending order
+        sort(a.begin(), a.end(), greater<int>());
+        sort(b.begin(), b.end(), greater<int>());
+
+        // max heap: {sum, {i, j}}
+        priority_queue<pair<int, pair<int,int>>> pq;
+
+        set<pair<int,int>> st;
+
+        // initial push
+        pq.push({a[0] + b[0], {0,0}});
+        st.insert({0,0});
+
+        vector<int> ans;
+
+        while(k--){
+            auto top = pq.top();
+            pq.pop();
+
+            int sum = top.first;
+            int i = top.second.first;
+            int j = top.second.second;
+
+            ans.push_back(sum);
+
+            // (i+1, j)
+            if(i+1 < n && st.find({i+1, j}) == st.end()){
+                pq.push({a[i+1] + b[j], {i+1, j}});
+                st.insert({i+1, j});
+            }
+
+            // (i, j+1)
+            if(j+1 < n && st.find({i, j+1}) == st.end()){
+                pq.push({a[i] + b[j+1], {i, j+1}});
+                st.insert({i, j+1});
+            }
+        }
+
+        return ans;
+    }
+};
