@@ -1,0 +1,60 @@
+class maxHeap {
+  private:
+    vector<int> arr;
+
+  public:
+
+    void push(int x) {
+        // insert at end
+        arr.push_back(x);
+        int i = arr.size() - 1;
+
+        // heapify up
+        while (i > 0) {
+            int parent = (i - 1) / 2;
+
+            if (arr[parent] < arr[i]) {
+                swap(arr[parent], arr[i]);
+                i = parent;
+            } else break;
+        }
+    }
+
+    void pop() {
+        if (arr.size() == 0) return;
+
+        // replace root with last element
+        arr[0] = arr.back();
+        arr.pop_back();
+
+        int i = 0;
+        int n = arr.size();
+
+        // heapify down
+        while (true) {
+            int largest = i;
+            int left = 2*i + 1;
+            int right = 2*i + 2;
+
+            if (left < n && arr[left] > arr[largest])
+                largest = left;
+
+            if (right < n && arr[right] > arr[largest])
+                largest = right;
+
+            if (largest == i) break;
+
+            swap(arr[i], arr[largest]);
+            i = largest;
+        }
+    }
+
+    int peek() {
+        if (arr.size() == 0) return -1;
+        return arr[0];
+    }
+
+    int size() {
+        return arr.size();
+    }
+};
