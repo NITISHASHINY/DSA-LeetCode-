@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0140-word-break-ii) |
 | [0200-number-of-islands](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0455-assign-cookies) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -200,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0140-word-break-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
