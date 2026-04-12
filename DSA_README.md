@@ -1,0 +1,420 @@
+<div align="center">
+
+<br/>
+
+```
+██████╗ ███████╗ █████╗      ███████╗██╗  ██╗███████╗███████╗████████╗
+██╔══██╗██╔════╝██╔══██╗     ██╔════╝██║  ██║██╔════╝██╔════╝╚══██╔══╝
+██║  ██║███████╗███████║     ███████╗███████║█████╗  █████╗     ██║   
+██║  ██║╚════██║██╔══██║     ╚════██║██╔══██║██╔══╝  ██╔══╝     ██║   
+██████╔╝███████║██║  ██║     ███████║██║  ██║███████╗███████╗   ██║   
+╚═════╝ ╚══════╝╚═╝  ╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝  
+```
+
+### 🧠 LeetCode DSA Solutions — Striver's Sheet
+
+**Topic-wise · Branch-based · Consistently Grinding · Never Stop**
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Grinding-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![Sheet](https://img.shields.io/badge/Following-Striver's%20A2Z%20Sheet-brightgreen?style=for-the-badge)](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+[![Status](https://img.shields.io/badge/Status-Ongoing%20🔥-red?style=for-the-badge)](#)
+
+<br/>
+
+![Problems](https://img.shields.io/badge/Problems%20Solved-Updating%20Daily-blue?style=flat-square)
+![Branches](https://img.shields.io/badge/Structure-Topic--wise%20Branches-purple?style=flat-square)
+![Consistency](https://img.shields.io/badge/Consistency-Every%20Day%20Counts-success?style=flat-square)
+
+</div>
+
+<br/>
+
+---
+
+## 👋 About This Repository
+
+> This repository contains my **ongoing DSA solutions** following [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) — one of the most structured and interview-focused DSA roadmaps available.
+
+Solutions are organized into **topic-wise branches** — each branch is dedicated to one DSA topic and grows as I solve more problems. This README stays constant. The code keeps growing. No need to update this file ever again.
+
+```
+"The only way to get better at DSA is to solve problems every single day.
+ Not sometimes. Every day."
+                                        — Striver (Raj Vikramaditya)
+```
+
+<br/>
+
+---
+
+## 🌿 Branch Structure
+
+> Each topic lives in its own branch. Use the branch dropdown on GitHub to navigate.
+
+```
+main  ← You are here (this README)
+│
+├── 01-arrays
+├── 02-binary-search
+├── 03-strings
+├── 04-recursion
+├── 05-bit-manipulation
+├── 06-sorting
+├── 07-hashing
+├── 08-two-pointers
+├── 09-sliding-window
+├── 10-linked-list
+├── 11-stacks-queues
+├── 12-trees
+├── 13-binary-search-tree
+├── 14-heaps
+├── 15-greedy
+├── 16-backtracking
+├── 17-dynamic-programming
+├── 18-graphs
+├── 19-tries
+└── 20-segment-trees
+```
+
+> 💡 Click the **branch dropdown** on GitHub → select a topic → browse solutions directly in the browser. No cloning needed.
+
+<br/>
+
+---
+
+## 🗺️ Striver's A2Z Sheet — Topic Roadmap
+
+| # | Topic | Branch | Difficulty Spread | Status |
+|---|-------|--------|-------------------|--------|
+| 01 | 📦 Arrays | `01-arrays` | Easy → Hard | 🔥 Active |
+| 02 | 🔍 Binary Search | `02-binary-search` | Easy → Hard | 🔥 Active |
+| 03 | 🔤 Strings | `03-strings` | Easy → Hard | 🔥 Active |
+| 04 | 🔄 Recursion | `04-recursion` | Medium → Hard | 🔥 Active |
+| 05 | 🧮 Bit Manipulation | `05-bit-manipulation` | Easy → Medium | 🔥 Active |
+| 06 | 📊 Sorting | `06-sorting` | Easy → Medium | 🔥 Active |
+| 07 | #️⃣ Hashing & Maps | `07-hashing` | Easy → Hard | 🔥 Active |
+| 08 | 👉 Two Pointers | `08-two-pointers` | Easy → Hard | 🔥 Active |
+| 09 | 🪟 Sliding Window | `09-sliding-window` | Medium → Hard | 🔥 Active |
+| 10 | 🔗 Linked List | `10-linked-list` | Easy → Hard | 🔥 Active |
+| 11 | 📚 Stacks & Queues | `11-stacks-queues` | Medium → Hard | 🔥 Active |
+| 12 | 🌳 Binary Trees | `12-trees` | Easy → Hard | 🔥 Active |
+| 13 | 🌲 Binary Search Tree | `13-binary-search-tree` | Medium → Hard | 🔥 Active |
+| 14 | 🏔️ Heaps | `14-heaps` | Medium → Hard | 🔥 Active |
+| 15 | 💰 Greedy | `15-greedy` | Easy → Hard | 🔥 Active |
+| 16 | 🧩 Backtracking | `16-backtracking` | Medium → Hard | 🔥 Active |
+| 17 | 🧠 Dynamic Programming | `17-dynamic-programming` | Medium → Hard | 🔥 Active |
+| 18 | 🕸️ Graphs | `18-graphs` | Medium → Hard | 🔥 Active |
+| 19 | 🌐 Tries | `19-tries` | Medium → Hard | 🔥 Active |
+| 20 | 🌿 Segment Trees | `20-segment-trees` | Hard | 🔥 Active |
+
+<br/>
+
+---
+
+## 📂 File Naming Convention
+
+Every solution file inside any branch follows this pattern:
+
+```
+<ProblemNumber>_<ProblemName>.<ext>
+
+Examples:
+  001_TwoSum.java
+  002_BestTimeToBuyAndSellStock.py
+  015_MaximumSubarray.cpp
+```
+
+Each file includes a comment header like this:
+
+```java
+/*
+ * Problem   : Two Sum
+ * LeetCode  : #1
+ * Difficulty: Easy
+ * Topic     : Arrays / Hashing
+ * Approach  : HashMap — O(n) time, O(n) space
+ *
+ * Intuition :
+ *   Store each number's index in a hashmap.
+ *   For every element, check if (target - element) exists in the map.
+ */
+```
+
+<br/>
+
+---
+
+## 🧩 Topics at a Glance
+
+<details>
+<summary><b>📦 Arrays</b> — click to expand</summary>
+
+```
+Easy   → Two Sum, Best Time to Buy & Sell Stock, Contains Duplicate,
+         Maximum Subarray, Move Zeroes, Merge Sorted Array
+
+Medium → 3Sum, Product of Array Except Self, Subarray Sum Equals K,
+         Majority Element, Next Permutation, Set Matrix Zeroes,
+         Rotate Image, Spiral Matrix, Pascal's Triangle
+
+Hard   → Trapping Rain Water, First Missing Positive,
+         Count Inversions, Merge Overlapping Intervals
+```
+</details>
+
+<details>
+<summary><b>🔍 Binary Search</b> — click to expand</summary>
+
+```
+Easy   → Binary Search, First Bad Version, Search Insert Position
+
+Medium → Search in Rotated Sorted Array, Find Minimum in Rotated Array,
+         Koko Eating Bananas, Capacity to Ship Packages,
+         Find Peak Element, Search a 2D Matrix
+
+Hard   → Median of Two Sorted Arrays, Split Array Largest Sum,
+         Aggressive Cows, Book Allocation
+```
+</details>
+
+<details>
+<summary><b>🔗 Linked List</b> — click to expand</summary>
+
+```
+Easy   → Reverse Linked List, Middle of Linked List,
+         Palindrome Linked List, Merge Two Sorted Lists
+
+Medium → Add Two Numbers, Remove Nth Node from End,
+         Linked List Cycle II, Reorder List,
+         Flatten a Linked List, Sort List
+
+Hard   → Reverse Nodes in k-Group, LRU Cache, LFU Cache
+```
+</details>
+
+<details>
+<summary><b>🌳 Binary Trees</b> — click to expand</summary>
+
+```
+Easy   → Inorder/Preorder/Postorder Traversal, Maximum Depth,
+         Symmetric Tree, Path Sum, Invert Binary Tree
+
+Medium → Level Order Traversal, Zigzag Traversal, Diameter,
+         Lowest Common Ancestor, Right Side View,
+         Construct Tree from Preorder + Inorder
+
+Hard   → Binary Tree Maximum Path Sum, Vertical Order Traversal,
+         Morris Traversal, Serialize & Deserialize
+```
+</details>
+
+<details>
+<summary><b>🧠 Dynamic Programming</b> — click to expand</summary>
+
+```
+1D DP    → Climbing Stairs, House Robber I & II, Jump Game I & II,
+           Decode Ways, Coin Change
+
+2D DP    → Unique Paths, Minimum Path Sum, Edit Distance,
+           Longest Common Subsequence, 0/1 Knapsack
+
+Strings  → Longest Palindromic Subsequence, Wildcard Matching
+
+Advanced → Burst Balloons, DP on Trees, Digit DP,
+           Matrix Chain Multiplication
+```
+</details>
+
+<details>
+<summary><b>🕸️ Graphs</b> — click to expand</summary>
+
+```
+Basics   → BFS, DFS, Number of Islands, Flood Fill
+
+Medium   → Detect Cycle (Directed & Undirected), Topological Sort,
+           Bipartite Check, Dijkstra's Algorithm,
+           Bellman-Ford, Prim's MST, Kruskal's MST
+
+Hard     → Strongly Connected Components (Kosaraju's),
+           Bridges & Articulation Points, Floyd-Warshall,
+           Alien Dictionary
+```
+</details>
+
+<details>
+<summary><b>📚 Stacks & Queues</b> — click to expand</summary>
+
+```
+Easy   → Valid Parentheses, Implement Stack using Queue
+
+Medium → Next Greater Element, Daily Temperatures, Min Stack,
+         Evaluate Reverse Polish Notation,
+         Largest Rectangle in Histogram
+
+Hard   → Sliding Window Maximum, Maximal Rectangle,
+         Celebrity Problem
+```
+</details>
+
+<details>
+<summary><b>💰 Greedy</b> — click to expand</summary>
+
+```
+Easy   → Assign Cookies, Lemonade Change
+
+Medium → Jump Game, Meeting Rooms II, Task Scheduler,
+         Partition Labels, Gas Station,
+         Non-overlapping Intervals
+
+Hard   → Minimum Arrows to Burst Balloons, IPO, Candy
+```
+</details>
+
+<details>
+<summary><b>🧩 Backtracking</b> — click to expand</summary>
+
+```
+Medium → Subsets, Subsets II, Permutations, Permutations II,
+         Combinations, Combination Sum I, II, III,
+         Letter Combinations of a Phone Number
+
+Hard   → N-Queens, Sudoku Solver, Word Search,
+         Palindrome Partitioning, Rat in a Maze
+```
+</details>
+
+<details>
+<summary><b>🌐 Tries</b> — click to expand</summary>
+
+```
+Medium → Implement Trie, Search Suggestions System,
+         Replace Words, Map Sum Pairs
+
+Hard   → Word Search II, Design Search Autocomplete,
+         Maximum XOR of Two Numbers (Trie approach)
+```
+</details>
+
+<br/>
+
+---
+
+## 💡 Problem-Solving Approach
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                  MY APPROACH TO EVERY PROBLEM               │
+├────────┬────────────────────────────────────────────────────┤
+│ STEP 1 │ READ       — Understand fully before coding        │
+│ STEP 2 │ EXAMPLES   — Trace 2–3 examples by hand           │
+│ STEP 3 │ BRUTE      — Think of simplest working solution    │
+│ STEP 4 │ OPTIMIZE   — Apply patterns, reduce complexity     │
+│ STEP 5 │ CODE       — Write clean, commented code           │
+│ STEP 6 │ TEST       — Edge cases: empty, single, negatives  │
+│ STEP 7 │ COMPLEXITY — State time & space explicitly         │
+└────────┴────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+## 🔥 DSA Patterns Cheat Sheet
+
+```
+Pattern                  When to use
+──────────────────────────────────────────────────────────────────
+Two Pointers           → Sorted arrays, pair sum, palindrome check
+Sliding Window         → Subarray/substring with a constraint
+Binary Search          → Sorted input, "min of max" type problems
+Fast & Slow Pointers   → Cycle detection, middle of linked list
+Merge Intervals        → Overlapping ranges
+Cyclic Sort            → Arrays with numbers 1 to N
+In-place Reversal      → Reverse linked list nodes/segments
+BFS                    → Shortest path, level-order traversal
+DFS                    → Path finding, connected components
+Backtracking           → All combinations / permutations / subsets
+Dynamic Programming    → Overlapping subproblems + optimal structure
+Monotonic Stack        → Next greater / smaller element problems
+Top K Elements         → Heap-based selection
+Trie                   → Prefix search, word matching
+Union-Find             → Connected components, cycle in undirected graph
+```
+
+<br/>
+
+---
+
+## 📊 Difficulty Guide
+
+```
+🟢 Easy    — Solve in < 15 min. Core building blocks.
+🟡 Medium  — Target 20–30 min. Interview sweet spot.
+🔴 Hard    — Understand the approach. Compound patterns.
+```
+
+> **Interview tip:** Top companies like Google, Amazon, Meta, Microsoft focus **heavily on Medium** problems. Master mediums before jumping to hards.
+
+<br/>
+
+---
+
+## 📖 Resources I'm Using
+
+| Resource | Link | Purpose |
+|----------|------|---------|
+| 📋 Striver's A2Z Sheet | [takeuforward.org](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) | Primary problem list |
+| 🎥 Striver's YouTube | [youtube.com/@takeUforward](https://www.youtube.com/@takeUforward) | Video explanations |
+| 💻 LeetCode | [leetcode.com](https://leetcode.com) | Problem solving platform |
+| 📝 CP-Algorithms | [cp-algorithms.com](https://cp-algorithms.com) | Theory & proofs |
+| 📘 CLRS | Introduction to Algorithms (Book) | Deep conceptual understanding |
+
+<br/>
+
+---
+
+## 🚀 How to Clone & Navigate
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/dsa-leetcode-striver.git
+cd dsa-leetcode-striver
+
+# List all topic branches
+git branch -r
+
+# Switch to any topic
+git checkout 01-arrays
+git checkout 17-dynamic-programming
+git checkout 18-graphs
+
+# Browse solutions
+ls
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+**Solving one problem at a time. Every day. No days off.**
+
+*"Consistency beats intensity. Show up daily."*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LeetCode](https://img.shields.io/badge/My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
+
+<br/>
+
+⭐ **Star this repo if it helps your DSA journey!** ⭐
+
+<br/>
+
+*README is permanent · Solutions update daily 🔥*
+
+</div>
