@@ -1,0 +1,36 @@
+class Solution {
+  public:
+    void sortStack(stack<int> &st) {
+        stack<int> ans;
+
+        while (!st.empty()) {   // FIXED
+            int curr = st.top(); 
+            st.pop();
+
+            // place curr in correct position in ans
+            while (!ans.empty() && ans.top() > curr) {
+                st.push(ans.top());
+                ans.pop();
+            }
+
+            ans.push(curr);
+        }
+
+        // copy back to original stack
+        while (!ans.empty()) {
+            st.push(ans.top());
+            ans.pop();
+        }
+    }
+
+    int getMax(stack<int> st) {
+        int maxi = INT_MIN;
+        
+        while (!st.empty()) {
+            maxi = max(maxi, st.top());
+            st.pop();
+        }
+        
+        return maxi;
+    }
+};
