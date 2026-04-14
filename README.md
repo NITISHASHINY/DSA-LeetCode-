@@ -430,6 +430,7 @@ ls
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -450,4 +451,8 @@ ls
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
