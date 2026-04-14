@@ -425,6 +425,7 @@ ls
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0239-sliding-window-maximum) |
 ## Stack
 |  |
 | ------- |
@@ -433,4 +434,20 @@ ls
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
