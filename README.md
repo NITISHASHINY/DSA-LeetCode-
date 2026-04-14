@@ -418,3 +418,19 @@ ls
 *README is permanent · Solutions update daily 🔥*
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
+<!---LeetCode Topics End-->
