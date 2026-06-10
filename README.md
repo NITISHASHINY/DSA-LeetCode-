@@ -428,6 +428,7 @@ ls
 | [0084-largest-rectangle-in-histogram](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0239-sliding-window-maximum) |
 | [0994-rotting-oranges](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0994-rotting-oranges) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Stack
 |  |
 | ------- |
