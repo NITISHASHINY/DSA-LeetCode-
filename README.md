@@ -470,6 +470,7 @@ ls
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0994-rotting-oranges) |
 ## Matrix
@@ -542,6 +543,7 @@ ls
 | [0145-binary-tree-postorder-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -551,6 +553,7 @@ ls
 | [0145-binary-tree-postorder-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -560,6 +563,7 @@ ls
 | [0145-binary-tree-postorder-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
