@@ -427,6 +427,7 @@ ls
 | [0014-longest-common-prefix](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0239-sliding-window-maximum) |
@@ -491,6 +492,7 @@ ls
 | [0005-longest-palindromic-substring](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0189-rotate-array) |
@@ -538,6 +540,7 @@ ls
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
