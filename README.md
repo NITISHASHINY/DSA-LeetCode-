@@ -426,6 +426,7 @@ ls
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0239-sliding-window-maximum) |
@@ -512,6 +513,7 @@ ls
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0053-maximum-subarray) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
 |  |
@@ -589,4 +591,8 @@ ls
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0257-binary-tree-paths) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
