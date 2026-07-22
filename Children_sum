@@ -1,0 +1,35 @@
+class Solution {
+  public:
+    bool isSumProperty(Node *root) {
+        if(root == NULL){
+            return true;
+        }
+
+        queue<pair<Node*, int>> q;
+        q.push({root, 0});
+
+        while(!q.empty()){
+
+            Node* node = q.front().first;
+            int sum = 0;
+            q.pop();                     
+            if(node->left){
+                sum += node->left->data;
+                q.push({node->left, 0}); 
+            }
+
+            if(node->right){
+                sum += node->right->data;
+                q.push({node->right, 0});  
+            }
+
+            if(node->left || node->right){
+                if(node->data != sum){
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
+};
