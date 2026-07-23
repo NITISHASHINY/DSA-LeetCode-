@@ -562,6 +562,7 @@ ls
 | [0257-binary-tree-paths](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -597,6 +598,7 @@ ls
 | [0257-binary-tree-paths](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
@@ -611,4 +613,8 @@ ls
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
