@@ -429,6 +429,7 @@ ls
 | [0053-maximum-subarray](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0239-sliding-window-maximum) |
 | [0994-rotting-oranges](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0994-rotting-oranges) |
@@ -552,6 +553,7 @@ ls
 | [0100-same-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -588,6 +590,7 @@ ls
 | [0100-same-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -608,6 +611,7 @@ ls
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -616,5 +620,6 @@ ls
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
