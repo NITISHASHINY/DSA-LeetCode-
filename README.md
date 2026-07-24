@@ -519,6 +519,7 @@ ls
 | [0686-repeated-string-match](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0686-repeated-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1021-remove-outermost-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -536,6 +537,7 @@ ls
 | ------- |
 | [0013-roman-to-integer](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -630,4 +632,8 @@ ls
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
