@@ -472,6 +472,7 @@ ls
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0901-online-stock-span) |
 ## Breadth-First Search
@@ -530,6 +531,7 @@ ls
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0013-roman-to-integer) |
+| [0146-lru-cache](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
@@ -632,6 +634,7 @@ ls
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0146-lru-cache) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -644,4 +647,8 @@ ls
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1903-largest-odd-number-in-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
