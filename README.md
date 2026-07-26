@@ -444,6 +444,7 @@ ls
 | [0144-binary-tree-preorder-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1021-remove-outermost-parentheses) |
@@ -474,6 +475,7 @@ ls
 | ------- |
 | [0146-lru-cache](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0901-online-stock-span) |
 ## Breadth-First Search
 |  |
@@ -572,6 +574,7 @@ ls
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -618,6 +621,7 @@ ls
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -649,6 +653,7 @@ ls
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -662,4 +667,8 @@ ls
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0146-lru-cache) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
