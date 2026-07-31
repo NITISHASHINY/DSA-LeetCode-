@@ -1,0 +1,25 @@
+class Solution {
+  public:
+    vector<int> bfs(vector<vector<int>> &adj) {
+        vector<int>ans;
+        int start = 0;
+        vector<int> vis(adj.size() , 0);
+        queue<int>q;
+        q.push(start);
+        vis[start] = 1;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            ans.push_back(node);
+            for(auto neighbour : adj[node]){
+                if(!vis[neighbour]){
+                    vis[neighbour] = 1;
+                    q.push(neighbour);
+                }
+            }
+        }
+        return ans;
+        
+        
+    }
+};
