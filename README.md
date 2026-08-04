@@ -448,6 +448,7 @@ ls
 | [0901-online-stock-span](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -527,6 +528,7 @@ ls
 | [0257-binary-tree-paths](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0257-binary-tree-paths) |
 | [0686-repeated-string-match](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0686-repeated-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
