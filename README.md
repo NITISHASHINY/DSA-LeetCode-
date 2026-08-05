@@ -432,6 +432,7 @@ ls
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -489,6 +490,7 @@ ls
 | [0199-binary-tree-right-side-view](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0662-maximum-width-of-binary-tree) |
@@ -540,6 +542,7 @@ ls
 | [0005-longest-palindromic-substring](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0322-coin-change) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
 |  |
@@ -710,4 +713,12 @@ ls
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
