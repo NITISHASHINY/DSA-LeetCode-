@@ -538,6 +538,7 @@ ls
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0070-climbing-stairs) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
 |  |
@@ -552,6 +553,7 @@ ls
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -700,4 +702,8 @@ ls
 | ------- |
 | [0207-course-schedule](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0802-find-eventual-safe-states) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
