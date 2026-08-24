@@ -430,6 +430,7 @@ ls
 | [0075-sort-colors](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0152-maximum-product-subarray](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0322-coin-change) |
@@ -543,6 +544,7 @@ ls
 | [0005-longest-palindromic-substring](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/0322-coin-change) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NITISHASHINY/DSA-LeetCode-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
